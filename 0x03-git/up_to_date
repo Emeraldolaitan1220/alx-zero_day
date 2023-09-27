@@ -1,0 +1,11 @@
+git add .
+git push 
+git commit -m
+git checkout
+git branch
+ls
+cd 
+pwd
+echo
+rm -r
+git pull
